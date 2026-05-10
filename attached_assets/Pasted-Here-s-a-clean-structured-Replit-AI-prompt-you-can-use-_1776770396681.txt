@@ -1,0 +1,139 @@
+Here’s a clean, structured **Replit AI prompt** you can use to generate a website inspired by the Arduino Docs style, tailored to your layout and vision:
+
+---
+
+**Prompt for Replit AI:**
+
+Build a modern documentation-style website inspired by the design system and layout of [https://docs.arduino.cc/](https://docs.arduino.cc/). The website should feel clean, developer-friendly, and modular, with a strong focus on usability, clarity, and structured content.
+
+### Design Direction:
+
+* Minimal, grid-based layout similar to Arduino Docs
+* Clean typography, lots of whitespace
+* Subtle color accents (Arduino-style teal/green)
+* Responsive design (desktop-first, mobile-friendly)
+* Sticky top navigation bar with logo and menu
+
+---
+
+### Page Structure:
+
+#### Row 0: Hero Banner (Top Section)
+
+* Full-width banner
+* Headline: “Build Intelligent Systems with Hardware + AI”
+* Subheading: Short explanation of platform
+* CTA buttons: “Get Started” and “Explore Components”
+* Background: subtle gradient or abstract tech illustration
+
+---
+
+#### Row 1: Feature Banners (3–4 horizontal cards)
+
+* Each banner highlights a key capability:
+
+  * “Plug & Play Sensor Kits”
+  * “Pre-trained AI Models”
+  * “Real-world Datasets”
+  * “End-to-End Software Stack”
+* Use icons + short descriptions
+* Horizontal scroll on mobile
+
+---
+
+#### Row 2: Four Pillars (Core Offering)
+
+Create 4 equal cards in a grid:
+
+1. **Sensor Kit (Hardware)**
+2. **Dataset**
+3. **Software Models**
+4. **AI Models**
+
+Each card should include:
+
+* Icon or illustration
+* Title
+* 2-line description
+* “Learn More” link
+
+---
+
+#### Row 3: Platform Workflow / How It Works
+
+* Visual flow or step-based section:
+
+  1. Collect Data (Sensors)
+  2. Process Data (Software)
+  3. Train Models (AI)
+  4. Deploy System
+* Use arrows or connected diagram style
+
+---
+
+#### Row 4: Discovery Section
+
+Split into 3 columns:
+
+* **Tutorials**
+
+  * Show 1 featured tutorial card
+
+* **Design Cases**
+
+  * Real-world applications / use cases
+
+* **Inspirations**
+
+  * Creative or experimental projects
+
+Each item should have:
+
+* Thumbnail
+* Title
+* Short description
+
+---
+
+#### Row 5: About Us
+
+* Short paragraph about mission and vision
+* Focus on innovation, accessibility, and impact
+* Optional team or illustration
+
+---
+
+#### Row 6: Partnerships
+
+* Logos or names of partner organizations
+* Clean grid layout
+* Optional short text: “Trusted by innovators worldwide”
+
+---
+
+### Additional Requirements:
+
+* Use React + Tailwind CSS
+* Component-based architecture
+* Reusable card components
+* Add hover states and smooth transitions
+* Include dark mode toggle
+* Add footer with links (Docs, GitHub, Contact)
+
+---
+
+### Bonus:
+
+* Add sidebar navigation (like Arduino Docs) for future scalability
+* Include search bar at top
+* Use placeholder content but structured for real data
+
+---
+
+If you want, I can also generate:
+
+* actual React code
+* a Figma wireframe
+* or UX critique of this layout before you build it
+
+Just tell me 👍
