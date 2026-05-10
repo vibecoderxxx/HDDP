@@ -1,0 +1,98 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "TfkWAKqaOdmVrxFEFGwdF"
+uri = "file://artifacts/web/src/assets/hero-illustration.png"
+type = "image"
+title = "Hero high-tech abstract sensor network"
+
+[[generated]]
+id = "RmY1lry0Orq8iV3-F_3wT"
+uri = "file://artifacts/web/src/assets/tutorial-thumb.png"
+type = "image"
+title = "Electronics workbench top down"
+
+[[generated]]
+id = "SQ0NS6OkeyJbiJT_LsYRY"
+uri = "file://artifacts/web/src/assets/design-case-thumb.png"
+type = "image"
+title = "Sleek autonomous drone prototype"
+
+[[generated]]
+id = "TKwHwpNNAuNcOidttutW2"
+uri = "file://artifacts/web/src/assets/inspiration-thumb.png"
+type = "image"
+title = "Abstract data visualization floating"
+
+[[generated]]
+id = "4GcKo_CbwdDv4xmgGdpm2"
+uri = "file://artifacts/web/src/assets/card-hardware.png"
+type = "image"
+title = "hardware card illustration"
+
+[[generated]]
+id = "ppZO8w7aMIBzeJQhVEMgQ"
+uri = "file://artifacts/web/src/assets/card-ai.png"
+type = "image"
+title = "AI models card illustration"
+
+[[generated]]
+id = "DYGRlutQS9KCWgJ_NFxMK"
+uri = "file://artifacts/web/src/assets/card-datasets.png"
+type = "image"
+title = "datasets card illustration"
+
+[[generated]]
+id = "jp1mFMBdYMKK3HjiynJ5i"
+uri = "file://artifacts/web/src/assets/card-software.png"
+type = "image"
+title = "software card illustration"
+
+[[generated]]
+id = "DfRNqKpbeAokVunPU7zDC"
+uri = "file://artifacts/web/src/assets/team-alex.png"
+type = "image"
+title = "team member Alex"
+
+[[generated]]
+id = "HRY98ri8bK_Unh8h-lNcz"
+uri = "file://artifacts/web/src/assets/team-sarah.png"
+type = "image"
+title = "team member Sarah"
+
+[[generated]]
+id = "B7Xc3gz2qWHnKNqogYDNa"
+uri = "file://artifacts/web/src/assets/team-marcus.png"
+type = "image"
+title = "team member Marcus"
+
+[[generated]]
+id = "nNEwBLdrW4MWB9Se1WVsU"
+uri = "file://artifacts/web/src/assets/team-priya.png"
+type = "image"
+title = "team member Priya"
+
+[[generated]]
+id = "jKfbASjO0iDHMxfMA4Qku"
+uri = "file://artifacts/web/src/assets/team-james.png"
+type = "image"
+title = "team member James"
+
+[[generated]]
+id = "VwE5sN-Sq3Tp-GXXsknBn"
+uri = "file://artifacts/web/src/assets/team-elena.png"
+type = "image"
+title = "team member Elena"
+
+[[generated]]
+id = "LFzZYCq7ukGcGfrxn0cTl"
+uri = "file://artifacts/web/src/assets/team-omar.png"
+type = "image"
+title = "team member Omar"
+
+[[generated]]
+id = "mIRblPPwlfTKq7xSqMBwi"
+uri = "file://artifacts/web/src/assets/team-mei.png"
+type = "image"
+title = "team member Mei"
